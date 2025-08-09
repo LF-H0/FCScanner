@@ -2,7 +2,7 @@
 
 [![Python 3.6+](https://img.shields.io/badge/python-3.6+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/LF-H0/FCScanner/)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/LF-H0/FCScanner.pulls)
 
 > Professional reconnaissance tool for web security assessment and bug bounty hunting
 
@@ -34,6 +34,6 @@ The Ultimate Web Recon Tool is a comprehensive security scanner that combines cr
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/yourusername/ultimate-web-recon-tool.git
+https://github.com/LF-H0/FCScanner.git
 cd ultimate-web-recon-tool
 pip install -r requirements.txt
