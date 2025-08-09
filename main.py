@@ -36,7 +36,7 @@ def print_crawl_help():
     print(f"{Fore.GREEN}| -e, --exclude    | File extensions to exclude (e.g., jpg png pdf   |{Style.RESET_ALL}")
     print(f"{Fore.GREEN}| -j, --jscrawl    | Enable extraction of URLs from JavaScript file  |{Style.RESET_ALL}")
     print(f"{Fore.GREEN}| --no-subs        | Exclude subdomains from crawling                |{Style.RESET_ALL}")
-    print(f"{Fore.GREEN}| -s, --secrets    | Scan JavaScript files for secrets              |{Style.RESET_ALL}")
+    print(f"{Fore.GREEN}| -s, --secrets    | Scan JavaScript files for secrets               |{Style.RESET_ALL}")
     print(f"{Fore.GREEN}| -h, --help       | Show this help message                          |{Style.RESET_ALL}")
     print(f"{Fore.GREEN}+------------------+-------------------------------------------------+{Style.RESET_ALL}")
     sys.exit(0)
