@@ -35,5 +35,6 @@ The Ultimate Web Recon Tool is a comprehensive security scanner that combines cr
 
 ```bash
 https://github.com/LF-H0/FCScanner.git
-cd ultimate-web-recon-tool
+cd FCScanner
 pip install -r requirements.txt
+python main.py -h
